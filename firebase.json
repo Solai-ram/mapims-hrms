@@ -1,10 +1,14 @@
 {
   "hosting": {
-    "site": "mapims-hrms",
+    "target": "mapims",
     "public": ".",
     "ignore": [
       "firebase.json",
       ".firebaserc",
+      "**/.git/**",
+      ".git/**",
+      ".git",
+      ".firebase/**",
       "**/.*",
       "**/*.py",
       "**/*.pyc",
