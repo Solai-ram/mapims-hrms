@@ -1,0 +1,47 @@
+{
+  "hosting": {
+    "site": "mapims-hrms",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "**/.*",
+      "**/*.py",
+      "**/*.pyc",
+      "**/__pycache__/**",
+      "scratch_chunks/**",
+      "all_employee_data/**",
+      "*.json",
+      "*.tmp",
+      "*.log",
+      "*.xlsx",
+      "test_*.png"
+    ],
+    "headers": [
+      {
+        "source": "employee_photos/**",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000, immutable"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(js|css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=86400"
+          }
+        ]
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

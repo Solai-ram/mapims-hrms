@@ -1,0 +1,94 @@
+{
+  "/role_master/dropdown": [
+    {
+      "key": "BNzNQgG9",
+      "value": "Accounts Assistant"
+    },
+    {
+      "key": "6nz3pPGk",
+      "value": "Accounts Manager"
+    },
+    {
+      "key": "avgo8zj0",
+      "value": "Admin"
+    },
+    {
+      "key": "eZgOePnl",
+      "value": "Department Head"
+    },
+    {
+      "key": "W9V7WVJZ",
+      "value": "Dept Asst"
+    },
+    {
+      "key": "2kPXmVma",
+      "value": "DMS"
+    },
+    {
+      "key": "E7VA3zDK",
+      "value": "Employee"
+    },
+    {
+      "key": "QDPwlVOv",
+      "value": "Human Resource"
+    },
+    {
+      "key": "Kegl8gnd",
+      "value": "Human Resource Manager"
+    },
+    {
+      "key": "pmzDKgkE",
+      "value": "Medical Director"
+    }
+  ],
+  "/attendance/records/status-dropdown": [
+    {
+      "key": "PRESENT",
+      "value": "Present"
+    },
+    {
+      "key": "ABSENT",
+      "value": "Absent"
+    },
+    {
+      "key": "HALF_DAY",
+      "value": "Half Day"
+    },
+    {
+      "key": "WEEK_OFF",
+      "value": "Week Off"
+    },
+    {
+      "key": "OD",
+      "value": "OD"
+    },
+    {
+      "key": "OD_WITH_HALF_DAY",
+      "value": "OD with Half Day"
+    },
+    {
+      "key": "HOLIDAY",
+      "value": "Holiday"
+    },
+    {
+      "key": "CL",
+      "value": "Casual Leave",
+      "isHalfDay": true
+    },
+    {
+      "key": "EL",
+      "value": "Earned Leave",
+      "isHalfDay": false
+    },
+    {
+      "key": "ML",
+      "value": "Maternity Leave",
+      "isHalfDay": false
+    },
+    {
+      "key": "RH",
+      "value": "Restricted Leave",
+      "isHalfDay": false
+    }
+  ]
+}

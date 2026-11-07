@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary & debug files
+*.tmp
+*.log
+# Firebase
+.firebase/
+firebase-debug.log*
+
+# Scratches & intermediate dumps
+scratch_chunks/
+temp_*.json
+
+# OS files
+.DS_Store
+Thumbs.db

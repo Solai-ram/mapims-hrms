@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "project-temp4"
+  },
+  "targets": {
+    "project-temp4": {
+      "hosting": {
+        "mapims": [
+          "mapims-hrms"
+        ]
+      }
+    }
+  }
+}

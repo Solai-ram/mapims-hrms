@@ -1,0 +1,2168 @@
+{
+  "sync_timestamp": "Fri, 06 Nov 2026 18:32:18 GMT",
+  "me": {
+    "id": "6vProwVw",
+    "email": null,
+    "auth0UserId": "auth0|6a61c57e088d0a05e7ffd131",
+    "firstName": "Solairam",
+    "lastName": "P",
+    "fullName": "Solairam P",
+    "roles": [
+      "Employee"
+    ],
+    "permissions": [
+      "HRLEA_VIEW",
+      "HRDSH_EMPLOYEE",
+      "HRREG_VIEW",
+      "HRLER_VIEW",
+      "HRLER_CREATE",
+      "HRLEAOD_VIEW",
+      "HRLEAOD_CREATE",
+      "HRPSM_VIEW"
+    ],
+    "employeeId": "4Ygb6RgE",
+    "isSuperAdmin": false,
+    "departmentId": [
+      "WdgByV9O"
+    ],
+    "isMultiDeptMap": true,
+    "shiftDepartmentIds": [],
+    "leaveOdDepartmentIds": [],
+    "isCountryId": "avgo8zj0",
+    "isProvinceId": "avgo8zj0",
+    "isCityId": "jKPyaPW2",
+    "isAreaId": "aVmmAQV2",
+    "subscribedModules": [
+      "HRATT",
+      "HRREG",
+      "HRAPPR",
+      "HRSHT",
+      "HRROL",
+      "HRPOL",
+      "HROT",
+      "HRPAY",
+      "HROTBTE",
+      "HREMPR",
+      "HRUSER",
+      "HREXP",
+      "HRLEM",
+      "HREXPM",
+      "HREMP",
+      "HRREL",
+      "HRLEA",
+      "HRLER",
+      "HRLEB",
+      "HRCAL",
+      "HRCON",
+      "HRINVD",
+      "HRDSH",
+      "HRPAYM",
+      "HRLOAN",
+      "HRLNAPP",
+      "HRNOT",
+      "HREMPB",
+      "HRTS",
+      "HRORG",
+      "HRLOC",
+      "HRSALC",
+      "HRDEP",
+      "HRDES",
+      "HREXC",
+      "HRACMT",
+      "HRACMB",
+      "HRACMR",
+      "HRACAL",
+      "HRTRNV",
+      "HRTRNR",
+      "HRTRNF",
+      "HRTRAL",
+      "HRLOT",
+      "HRSHI",
+      "HRPE",
+      "HRAWM",
+      "HRPOLM",
+      "HRLHR",
+      "HRLEAOD",
+      "HRPPOL",
+      "HREATTR",
+      "HRESR",
+      "HRPAYR",
+      "HRLEAODM",
+      "HRPSM",
+      "HRODR",
+      "HRODM",
+      "HRMWA",
+      "HRINSP",
+      "HRINPL",
+      "HRINAPP",
+      "HRINR",
+      "HRINEN",
+      "HRTPM",
+      "HRTDSO",
+      "HRJFM",
+      "HREJFM",
+      "HREUR",
+      "HREDOC",
+      "HRTDL",
+      "HRLOPA",
+      "HRLOPR",
+      "HRACM",
+      "HRLOPR",
+      "HREPFR",
+      "HREMPFR",
+      "HRESIR",
+      "HRMESIR",
+      "HRMPR",
+      "HRPSUMR",
+      "HRGRP"
+    ]
+  },
+  "profile": {
+    "recordId": "4Ygb6RgE",
+    "employeeCode": "60493",
+    "firstName": "Solairam",
+    "middleName": "",
+    "lastName": "P",
+    "joinDate": "2026-06-15",
+    "contactNumber": "7200504251",
+    "designationName": "",
+    "departmentName": "",
+    "emailId": "",
+    "officialEmail": "",
+    "relievingType": "",
+    "relievingDate": "",
+    "relievingStatus": "",
+    "dob": "1998-07-11",
+    "relievingTypeName": "",
+    "zipCode": "603102",
+    "maritalStatus": "",
+    "maritalStatusName": "",
+    "aadharNumber": "736000252519",
+    "nationality": "Indian",
+    "community": "",
+    "religion": "",
+    "caste": "",
+    "address": "655, MGR Street, Pudupattinam, Cheyyur",
+    "permanentAddress": "655, MGR Street, Pudupattinam, Cheyyur",
+    "permanentZipCode": "603102",
+    "physicallyChallenged": false,
+    "attendanceMode": "Biometric",
+    "physicalChallengeDetails": "",
+    "heightCm": "",
+    "weightKg": "",
+    "identificationMarks": "a mole on the left cheek",
+    "identificationMarks2": "",
+    "confirmedDate": "2026-09-13",
+    "backgroundStatus": "PENDING",
+    "backgroundStatusName": "Pending",
+    "backgroundAgencyName": "",
+    "backgroundCompletedDate": "",
+    "backgroundRemarks": "",
+    "passportNumber": "",
+    "passportExpiryDate": "",
+    "accessCardNumber": "",
+    "accessCardIssueDate": "",
+    "loaDocumentPath": "",
+    "loaUploadedAt": "",
+    "approvalStatus": "APPROVED",
+    "approvalStatusName": "Approved",
+    "approvedAt": "2026-07-21T04:58:37.506Z",
+    "rejectedAt": "",
+    "rejectionReason": "",
+    "accountNumber": "38517360910",
+    "panNo": "LMUPS9389D",
+    "branchName": "Kalpakkam",
+    "accountholderName": "Mr Solairam P",
+    "ifscCode": "SBIN0002219",
+    "relationType": "",
+    "relationTypeName": "",
+    "salary": 42000,
+    "uanNo": "101569788765",
+    "pfMemberId": "101569788765",
+    "esiNo": "5130860164",
+    "rejectedBy": "",
+    "title": "avgo8zj0",
+    "titleName": "Mr",
+    "gender": "avgo8zj0",
+    "genderName": "Male",
+    "area": "Pudupattinam",
+    "bloodGroup": "O+ Positive",
+    "bloodGroupId": "BNzNQgG9",
+    "country": "India",
+    "countryMasterId": "avgo8zj0",
+    "province": "Tamil Nadu",
+    "provinceMasterId": "avgo8zj0",
+    "city": "Kanchipuram",
+    "cityMasterId": "jKPyaPW2",
+    "areaMasterId": "aVmmAQV2",
+    "maxNo": 10,
+    "phoneCodeId": "avgo8zj0",
+    "phoneCode": "India",
+    "phoneKey": "91",
+    "permanentCountryName": "India",
+    "permanentCountryMasterId": "avgo8zj0",
+    "permanentProvinceName": "Tamil Nadu",
+    "permanentProvinceMasterId": "avgo8zj0",
+    "permanentCityName": "Kanchipuram",
+    "permanentCityMasterId": "jKPyaPW2",
+    "permanentAreaName": "Pudupattinam",
+    "permanentAreaMasterId": "aVmmAQV2",
+    "approvedBy": "qwzv0VZy",
+    "selectBank": "avgo8zj0",
+    "selectBankValue": "State Bank of India",
+    "roleMasterId": "E7VA3zDK",
+    "roleName": "Employee",
+    "educationMaster": [],
+    "experienceMaster": [],
+    "certificationMaster": [],
+    "multiDeptMaps": [],
+    "payrollPolicyRecordId": "Kegl8gnd",
+    "familyDetails": [
+      {
+        "familyDetailId": "24VklgeK",
+        "fullName": "Pethuraj",
+        "relationship": "Father",
+        "dateOfBirth": "",
+        "bloodGroupId": "",
+        "bloodGroupName": "",
+        "occupation": "",
+        "phoneCodeId": "avgo8zj0",
+        "phoneCode": "India",
+        "phoneKey": "91",
+        "maxNo": 10,
+        "contactNumber": "7200504251",
+        "isEmergencyContact": true
+      }
+    ],
+    "employeeMaps": [
+      {
+        "employeeMapsId": "4Ygb6RgE",
+        "effectiveFrom": "2026-06-15T00:00:00.000Z",
+        "effectiveTo": "",
+        "isCurrent": true,
+        "department": "WdgByV9O",
+        "departmentName": "Information Technology",
+        "designation": "BNzNK0PG",
+        "designationName": "Software Engineer"
+      }
+    ],
+    "employeeImage": "https://tecvine-hrms.s3.ap-south-1.amazonaws.com/mapims_hrms_local/employee/profilepicture/60493.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT5RQPVBUUC75AMHO%2F20261106%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T183220Z&X-Amz-Expires=3600&X-Amz-Signature=d69932dc2d3bda85193f794f57935d51e087570fbd2023530c6fe0fdfa39e6a5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "isInvitedEmployee": true
+  },
+  "dashboard": {
+    "noOfPresent": 11,
+    "noOfAbsent": 0,
+    "noOfLateLogin": 0,
+    "noOfWeekOff": 2,
+    "permission": 0,
+    "permissionMins": 0,
+    "holidayOfTheMonthList": [
+      {
+        "holidayId": "6nz3pPGk",
+        "holidayMonth": "11",
+        "holidayYear": "2026",
+        "holidayDate": "2026-11-08",
+        "holidayName": "Deepavali"
+      }
+    ],
+    "leaveRequestOfTheYear": [
+      {
+        "requestId": "eZgO9oPn",
+        "requestDate": "2026-09-08",
+        "fromDate": "2026-09-07",
+        "toDate": "2026-09-07",
+        "requestType": "Casual Leave",
+        "status": "Approved"
+      }
+    ],
+    "employeeNotificationsList": [],
+    "commonNotificationsList": [],
+    "departmentNotificationsList": [],
+    "relievingRequestStatus": null
+  },
+  "attendance": {
+    "salaryStartDate": "25",
+    "salaryCutOffDate": "24",
+    "periodStart": "2026-10-25",
+    "periodEnd": "2026-11-24",
+    "permission": 0,
+    "permissionMins": 0,
+    "attendanceDetails": [
+      {
+        "date": "2026-10-25",
+        "day": "Sun",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "WEEK_OFF",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-26",
+        "day": "Mon",
+        "checkInTime": "08:17:15",
+        "checkOutTime": "17:07:00",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-27",
+        "day": "Tue",
+        "checkInTime": "08:26:56",
+        "checkOutTime": "17:15:21",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-28",
+        "day": "Wed",
+        "checkInTime": "08:26:03",
+        "checkOutTime": "17:15:11",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-29",
+        "day": "Thu",
+        "checkInTime": "08:18:30",
+        "checkOutTime": "17:17:42",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-30",
+        "day": "Fri",
+        "checkInTime": "08:25:40",
+        "checkOutTime": "18:20:49",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-10-31",
+        "day": "Sat",
+        "checkInTime": "08:21:26",
+        "checkOutTime": "17:02:46",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-01",
+        "day": "Sun",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "WEEK_OFF",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-02",
+        "day": "Mon",
+        "checkInTime": "08:27:37",
+        "checkOutTime": "17:07:12",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-03",
+        "day": "Tue",
+        "checkInTime": "08:24:30",
+        "checkOutTime": "17:08:40",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-04",
+        "day": "Wed",
+        "checkInTime": "08:25:51",
+        "checkOutTime": "17:12:57",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-05",
+        "day": "Thu",
+        "checkInTime": "08:25:26",
+        "checkOutTime": "17:03:31",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-06",
+        "day": "Fri",
+        "checkInTime": "08:26:53",
+        "checkOutTime": "17:07:35",
+        "status": "PRESENT",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "Synced from ESSL",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-07",
+        "day": "Sat",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-08",
+        "day": "Sun",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": true,
+        "holidayName": "Deepavali"
+      },
+      {
+        "date": "2026-11-09",
+        "day": "Mon",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-10",
+        "day": "Tue",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-11",
+        "day": "Wed",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-12",
+        "day": "Thu",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-13",
+        "day": "Fri",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-14",
+        "day": "Sat",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-15",
+        "day": "Sun",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-16",
+        "day": "Mon",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-17",
+        "day": "Tue",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-18",
+        "day": "Wed",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-19",
+        "day": "Thu",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-20",
+        "day": "Fri",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-21",
+        "day": "Sat",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-22",
+        "day": "Sun",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "q9z68VAn",
+        "shiftName": "WO",
+        "shiftStartTime": "",
+        "shiftEndTime": "",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-23",
+        "day": "Mon",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      },
+      {
+        "date": "2026-11-24",
+        "day": "Tue",
+        "checkInTime": "",
+        "checkOutTime": "",
+        "status": "",
+        "shiftId": "RDV29PpJ",
+        "shiftName": "NG2",
+        "shiftStartTime": "08:29:00",
+        "shiftEndTime": "17:00:00",
+        "lateLogin": false,
+        "permissionMins": 0,
+        "leaveType": "",
+        "leaveReason": "",
+        "isHoliday": false,
+        "holidayName": ""
+      }
+    ]
+  },
+  "leave_balances": [
+    {
+      "leaveTypeId": "avgo8zj0",
+      "leaveTypeName": "Casual Leave",
+      "leaveTypeCode": "CL",
+      "totalLeave": 4,
+      "year": 2026,
+      "usedLeave": 1,
+      "remainingLeave": 3
+    },
+    {
+      "leaveTypeId": "E7VA3zDK",
+      "leaveTypeName": "Earned Leave",
+      "leaveTypeCode": "EL",
+      "totalLeave": 0,
+      "year": 2026,
+      "usedLeave": 0,
+      "remainingLeave": 0
+    },
+    {
+      "leaveTypeId": "Kegl8gnd",
+      "leaveTypeName": "Restricted Leave",
+      "leaveTypeCode": "RH",
+      "totalLeave": 0,
+      "year": 2026,
+      "usedLeave": 0,
+      "remainingLeave": 0
+    },
+    {
+      "leaveTypeId": "OD",
+      "leaveTypeName": "On Duty",
+      "leaveTypeCode": "OD",
+      "totalLeave": 30,
+      "year": 2026,
+      "usedLeave": 0,
+      "remainingLeave": 30
+    }
+  ],
+  "finance": [
+    {
+      "monthName": "May",
+      "month": "05",
+      "year": "2026",
+      "totalNet": 0,
+      "payrollRunCount": 0
+    },
+    {
+      "monthName": "Jun",
+      "month": "06",
+      "year": "2026",
+      "totalNet": 0,
+      "payrollRunCount": 0
+    },
+    {
+      "monthName": "Jul",
+      "month": "07",
+      "year": "2026",
+      "totalNet": 0,
+      "payrollRunCount": 0
+    },
+    {
+      "monthName": "Aug",
+      "month": "08",
+      "year": "2026",
+      "totalNet": 40042,
+      "payrollRunCount": 1
+    },
+    {
+      "monthName": "Sep",
+      "month": "09",
+      "year": "2026",
+      "totalNet": 38606,
+      "payrollRunCount": 1
+    },
+    {
+      "monthName": "Oct",
+      "month": "10",
+      "year": "2026",
+      "totalNet": 39114,
+      "payrollRunCount": 1
+    }
+  ],
+  "shifts": [
+    {
+      "key": "2kPXmVma",
+      "value": "COL",
+      "code": "COL",
+      "colorCode": "rgb(13, 54, 95)"
+    },
+    {
+      "key": "aZzKMVpn",
+      "value": "DA1",
+      "code": "DA1",
+      "colorCode": "rgb(27, 7, 249)"
+    },
+    {
+      "key": "y8g91gN7",
+      "value": "DA2",
+      "code": "DA2",
+      "colorCode": "rgb(252, 82, 9)"
+    },
+    {
+      "key": "Y3z14gWO",
+      "value": "Holiday",
+      "code": "HO",
+      "colorCode": "rgb(252, 0, 0)"
+    },
+    {
+      "key": "jXgWDzM8",
+      "value": "NA2",
+      "code": "NA2",
+      "colorCode": "rgb(243, 128, 9)"
+    },
+    {
+      "key": "eazpMP2b",
+      "value": "NA4",
+      "code": "NA4",
+      "colorCode": "rgb(109, 24, 6)"
+    },
+    {
+      "key": "WdgByV9O",
+      "value": "NA5",
+      "code": "NA5",
+      "colorCode": "rgb(248, 15, 238)"
+    },
+    {
+      "key": "aLga9gND",
+      "value": "NA6",
+      "code": "NA6",
+      "colorCode": "rgb(240, 7, 154)"
+    },
+    {
+      "key": "rmgQLV73",
+      "value": "NG1",
+      "code": "NG1",
+      "colorCode": "rgb(148, 145, 75)"
+    },
+    {
+      "key": "DZg0mzNp",
+      "value": "NG11",
+      "code": "NG11",
+      "colorCode": "rgb(30, 41, 59)"
+    },
+    {
+      "key": "RDV29PpJ",
+      "value": "NG2",
+      "code": "NG2",
+      "colorCode": "\trgb(20, 83, 45)"
+    },
+    {
+      "key": "bkzZwPmG",
+      "value": "NG5",
+      "code": "NG5",
+      "colorCode": "rgb(59, 7, 100)"
+    },
+    {
+      "key": "4YgbNgEJ",
+      "value": "NM1",
+      "code": "NM1",
+      "colorCode": "rgb(127, 29, 29)"
+    },
+    {
+      "key": "JlgeagYj",
+      "value": "NM2",
+      "code": "NM2",
+      "colorCode": "\trgb(17, 94, 89)"
+    },
+    {
+      "key": "AGzERPL9",
+      "value": "NN2",
+      "code": "NN2",
+      "colorCode": "rgb(23, 37, 84)"
+    },
+    {
+      "key": "GEPnEzQd",
+      "value": "NP",
+      "code": "NP",
+      "colorCode": "rgb(241, 99, 99)"
+    },
+    {
+      "key": "W9V7WVJZ",
+      "value": "NWD No Duty",
+      "code": "NWD",
+      "colorCode": "rgb(49, 46, 129)"
+    },
+    {
+      "key": "pmzDKgkE",
+      "value": "PDO",
+      "code": "PDO",
+      "colorCode": "rgb(76, 29, 149)"
+    },
+    {
+      "key": "E7VA3zDK",
+      "value": "PG",
+      "code": "PG",
+      "colorCode": "\trgb(112, 26, 117)"
+    },
+    {
+      "key": "OaVmyV2K",
+      "value": "PG OD",
+      "code": "PGOD",
+      "colorCode": "rgb(136, 19, 55)"
+    },
+    {
+      "key": "jKPyaPW2",
+      "value": "PHC UTH 1",
+      "code": "PHC1",
+      "colorCode": "rgb(69, 26, 3)"
+    },
+    {
+      "key": "JmgL4gwd",
+      "value": "PHC UTH 2",
+      "code": "PHC2",
+      "colorCode": "rgb(68, 64, 60)"
+    },
+    {
+      "key": "BjgRvgZG",
+      "value": "PHC UTHN11",
+      "code": "PHC3",
+      "colorCode": "rgb(20, 78, 45)"
+    },
+    {
+      "key": "oNgG5Pde",
+      "value": "PHC UTH3",
+      "code": "PHC4",
+      "colorCode": "rgb(22, 101, 52)"
+    },
+    {
+      "key": "24VklgeK",
+      "value": "PHC UTH4",
+      "code": "PHC5",
+      "colorCode": "rgb(5, 46, 22)"
+    },
+    {
+      "key": "Bqz4RVdx",
+      "value": "RH",
+      "code": "RH",
+      "colorCode": "rgb(63, 98, 18)"
+    },
+    {
+      "key": "BNzNQgG9",
+      "value": "TA1",
+      "code": "TA1",
+      "colorCode": "rgb(30, 64, 175)"
+    },
+    {
+      "key": "QDPwlVOv",
+      "value": "TG1",
+      "code": "TG1",
+      "colorCode": "rgb(40, 44, 52)"
+    },
+    {
+      "key": "Kegl8gnd",
+      "value": "TG2",
+      "code": "TG2",
+      "colorCode": "rgb(9, 9, 11)"
+    },
+    {
+      "key": "eZgOePnl",
+      "value": "TG4",
+      "code": "TG4",
+      "colorCode": "rgb(12, 74, 110)"
+    },
+    {
+      "key": "6nz3pPGk",
+      "value": "TG6",
+      "code": "TG6",
+      "colorCode": "rgb(88, 28, 135)"
+    },
+    {
+      "key": "qwzv0VZy",
+      "value": "TN1",
+      "code": "TN1",
+      "colorCode": "rgb(39, 48, 99)"
+    },
+    {
+      "key": "6vPrXgwW",
+      "value": "TN2",
+      "code": "TN2",
+      "colorCode": "rgb(0, 64, 64)"
+    },
+    {
+      "key": "7mV5rgGw",
+      "value": "TN5",
+      "code": "TN5",
+      "colorCode": "rgb(91, 33, 182)"
+    },
+    {
+      "key": "q9z68VAn",
+      "value": "WO",
+      "code": "WO",
+      "colorCode": "rgb(79, 25, 48)"
+    }
+  ],
+  "departments": [
+    {
+      "key": "avgo8zj0",
+      "value": "Accounts",
+      "code": "ACCO"
+    },
+    {
+      "key": "E7VA3zDK",
+      "value": "Administration",
+      "code": "ADMI"
+    },
+    {
+      "key": "QDPwlVOv",
+      "value": "Anaesthesiology",
+      "code": "ANAE"
+    },
+    {
+      "key": "Kegl8gnd",
+      "value": "Billing",
+      "code": "BILL"
+    },
+    {
+      "key": "eZgOePnl",
+      "value": "Bio Medical",
+      "code": "BM"
+    },
+    {
+      "key": "6nz3pPGk",
+      "value": "Blood Bank",
+      "code": "BB"
+    },
+    {
+      "key": "BNzNQgG9",
+      "value": "Cardiac Anaesthesia",
+      "code": "CA"
+    },
+    {
+      "key": "W9V7WVJZ",
+      "value": "Cardio",
+      "code": "CARD"
+    },
+    {
+      "key": "pmzDKgkE",
+      "value": "Cardiology",
+      "code": "CARD2"
+    },
+    {
+      "key": "2kPXmVma",
+      "value": "Cardiothoracic Surgery",
+      "code": "CS"
+    },
+    {
+      "key": "q9z68VAn",
+      "value": "Central Laboratory",
+      "code": "CL"
+    },
+    {
+      "key": "GEPnEzQd",
+      "value": "Cornea Transplant",
+      "code": "CT"
+    },
+    {
+      "key": "Bqz4RVdx",
+      "value": "CSSD",
+      "code": "CSSD"
+    },
+    {
+      "key": "OaVmyV2K",
+      "value": "Customer Care",
+      "code": "CC"
+    },
+    {
+      "key": "qwzv0VZy",
+      "value": "Day Care Centre",
+      "code": "DCC"
+    },
+    {
+      "key": "6vPrXgwW",
+      "value": "Dermatology",
+      "code": "DERM"
+    },
+    {
+      "key": "jKPyaPW2",
+      "value": "Dietetics",
+      "code": "DIET"
+    },
+    {
+      "key": "7mV5rgGw",
+      "value": "Electrical",
+      "code": "ELEC"
+    },
+    {
+      "key": "rmgQLV73",
+      "value": "Emergency",
+      "code": "EMER"
+    },
+    {
+      "key": "JmgL4gwd",
+      "value": "Emergency & ICU",
+      "code": "EAI"
+    },
+    {
+      "key": "RDV29PpJ",
+      "value": "Facility Management & Safety",
+      "code": "FMAS"
+    },
+    {
+      "key": "BjgRvgZG",
+      "value": "Finance",
+      "code": "FINA"
+    },
+    {
+      "key": "bkzZwPmG",
+      "value": "Gastroenterology",
+      "code": "GAST"
+    },
+    {
+      "key": "DZg0mzNp",
+      "value": "General Medicine",
+      "code": "GM"
+    },
+    {
+      "key": "oNgG5Pde",
+      "value": "General Surgery",
+      "code": "GS"
+    },
+    {
+      "key": "4YgbNgEJ",
+      "value": "Gummidipoondi Centre",
+      "code": "GC"
+    },
+    {
+      "key": "JlgeagYj",
+      "value": "House Keeping",
+      "code": "HK"
+    },
+    {
+      "key": "24VklgeK",
+      "value": "Human Resources",
+      "code": "HR"
+    },
+    {
+      "key": "jXgWDzM8",
+      "value": "ICU",
+      "code": "ICU"
+    },
+    {
+      "key": "WdgByV9O",
+      "value": "Information Technology",
+      "code": "IT"
+    },
+    {
+      "key": "aLga9gND",
+      "value": "Insurance",
+      "code": "INSU"
+    },
+    {
+      "key": "AGzERPL9",
+      "value": "Junior Resident",
+      "code": "JR"
+    },
+    {
+      "key": "eazpMP2b",
+      "value": "Kalavai PHC",
+      "code": "KP"
+    },
+    {
+      "key": "aZzKMVpn",
+      "value": "Lab Technician",
+      "code": "LT"
+    },
+    {
+      "key": "y8g91gN7",
+      "value": "Laundry",
+      "code": "LAUN"
+    },
+    {
+      "key": "Y3z14gWO",
+      "value": "Liver Kidney Transplant & HPB Surgery",
+      "code": "LKTAHS"
+    },
+    {
+      "key": "kmz85Pjx",
+      "value": "Maintenance",
+      "code": "MAIN"
+    },
+    {
+      "key": "ajgJYVmB",
+      "value": "Marketing",
+      "code": "MARK"
+    },
+    {
+      "key": "1GgYOPN5",
+      "value": "Mbbs (FMG)",
+      "code": "MF"
+    },
+    {
+      "key": "5jgx7Vpw",
+      "value": "Md Office",
+      "code": "MO"
+    },
+    {
+      "key": "pLzd9P84",
+      "value": "Medical Oncology",
+      "code": "MO2"
+    },
+    {
+      "key": "ZLVMbgnJ",
+      "value": "Medical Record Department",
+      "code": "MRD"
+    },
+    {
+      "key": "kagq6z4m",
+      "value": "Multi Organ Transplant",
+      "code": "MOT"
+    },
+    {
+      "key": "bAPjm3z1",
+      "value": "Nephrology",
+      "code": "NEPH"
+    },
+    {
+      "key": "avgo88zj",
+      "value": "Nephrology (DIALYSIS)",
+      "code": "ND"
+    },
+    {
+      "key": "E7VAQ3VD",
+      "value": "Neuro",
+      "code": "NEUR"
+    },
+    {
+      "key": "QDPwmlgO",
+      "value": "Neurology",
+      "code": "NEUR2"
+    },
+    {
+      "key": "Keglx8gn",
+      "value": "Neurosurgery",
+      "code": "NEUR3"
+    },
+    {
+      "key": "eZgO4ezn",
+      "value": "Nursing",
+      "code": "NURS"
+    },
+    {
+      "key": "6nz3GpzG",
+      "value": "Obstetrics and Gynaecology",
+      "code": "OAG"
+    },
+    {
+      "key": "W9V7qWzJ",
+      "value": "Operations",
+      "code": "OPER"
+    },
+    {
+      "key": "BNzN7QPG",
+      "value": "Operation Theatre",
+      "code": "OT"
+    },
+    {
+      "key": "pmzDjKVk",
+      "value": "Ophthalmology",
+      "code": "OPHT"
+    },
+    {
+      "key": "2kPXKmzm",
+      "value": "Organ Transplant Anaesthesia",
+      "code": "OTA"
+    },
+    {
+      "key": "q9z6l8VA",
+      "value": "Orthopaedics",
+      "code": "ORTH"
+    },
+    {
+      "key": "GEPnvEPQ",
+      "value": "Others",
+      "code": "OTHE"
+    },
+    {
+      "key": "Bqz4pRzd",
+      "value": "Otorhinolaryngology",
+      "code": "OTOR"
+    },
+    {
+      "key": "OaVmmyV2",
+      "value": "Paediatrics",
+      "code": "PAED"
+    },
+    {
+      "key": "qwzvw0PZ",
+      "value": "Pathology",
+      "code": "PATH"
+    },
+    {
+      "key": "6vPrQXzw",
+      "value": "Patient Care",
+      "code": "PC"
+    },
+    {
+      "key": "jKPyOagW",
+      "value": "Pharmacy",
+      "code": "PHAR"
+    },
+    {
+      "key": "7mV5KrzG",
+      "value": "Physiotherapy",
+      "code": "PHYS"
+    },
+    {
+      "key": "rmgQbLz7",
+      "value": "Plastic Surgery",
+      "code": "PS"
+    },
+    {
+      "key": "JmgL74Vw",
+      "value": "Psychiatry",
+      "code": "PSYC"
+    },
+    {
+      "key": "RDV2y9Pp",
+      "value": "Purchase & Store",
+      "code": "PAS"
+    },
+    {
+      "key": "BjgRZvgZ",
+      "value": "Quality",
+      "code": "QUAL"
+    },
+    {
+      "key": "bkzZ1wgm",
+      "value": "Quality Manager Cum Biochemistry Incharge",
+      "code": "QMCBI"
+    },
+    {
+      "key": "DZg0xmgN",
+      "value": "Radiology",
+      "code": "RADI"
+    },
+    {
+      "key": "oNgGD5zd",
+      "value": "RHTC",
+      "code": "RHTC"
+    },
+    {
+      "key": "4YgbYNVE",
+      "value": "Safety",
+      "code": "SAFE"
+    },
+    {
+      "key": "JlgeOaPY",
+      "value": "Special Ward",
+      "code": "SW"
+    },
+    {
+      "key": "24Vk2lPe",
+      "value": "Super Speciality",
+      "code": "SS"
+    },
+    {
+      "key": "jXgWQDPM",
+      "value": "Surgical Oncology",
+      "code": "SO"
+    },
+    {
+      "key": "WdgBNyg9",
+      "value": "Telemedicine",
+      "code": "TELE"
+    },
+    {
+      "key": "aLgay9gN",
+      "value": "Training and Development",
+      "code": "TAD"
+    },
+    {
+      "key": "AGzEQRzL",
+      "value": "Transfusion Medicine & Bloodbank",
+      "code": "TMAB"
+    },
+    {
+      "key": "eazpvMV2",
+      "value": "Transplant",
+      "code": "TRAN"
+    },
+    {
+      "key": "aZzKrMgp",
+      "value": "Transplant Team",
+      "code": "TT"
+    },
+    {
+      "key": "y8g9K1PN",
+      "value": "Transport",
+      "code": "TRAN2"
+    },
+    {
+      "key": "Y3z1L4gW",
+      "value": "Tuberculosis and Chest",
+      "code": "TAC"
+    },
+    {
+      "key": "kmz8a5Pj",
+      "value": "UHTC",
+      "code": "UHTC"
+    },
+    {
+      "key": "ajgJlYPm",
+      "value": "Urology",
+      "code": "UROL"
+    },
+    {
+      "key": "1GgYZOzN",
+      "value": "Urology & Renal Transplant",
+      "code": "UART"
+    },
+    {
+      "key": "5jgxR7Pp",
+      "value": "Uthiramerur Center",
+      "code": "UC"
+    },
+    {
+      "key": "pLzdL9z8",
+      "value": "Vascular & Endovascular Surgery",
+      "code": "VAES"
+    },
+    {
+      "key": "ZLVMDbPn",
+      "value": "Ward Secretary",
+      "code": "WS"
+    }
+  ],
+  "designations": [
+    {
+      "key": "24VkQ9ze",
+      "value": "AC Mechanic"
+    },
+    {
+      "key": "y8g9NNzN",
+      "value": "AC Technician"
+    },
+    {
+      "key": "JmgLRWPw",
+      "value": "AI Engineer"
+    },
+    {
+      "key": "jKPyWmgW",
+      "value": "AI & Software Trainee"
+    },
+    {
+      "key": "aLgarRzN",
+      "value": "Ambulance Driver"
+    },
+    {
+      "key": "24Vk2lPe",
+      "value": "Assistant"
+    },
+    {
+      "key": "RDV20Zzp",
+      "value": "Assistant General Manager"
+    },
+    {
+      "key": "eZgOpezn",
+      "value": "Assistant Manager"
+    },
+    {
+      "key": "1GgYZOzN",
+      "value": "Assistant Manager -Billing"
+    },
+    {
+      "key": "5jgxR7Pp",
+      "value": "Assistant Manager -Billing & Insurance"
+    },
+    {
+      "key": "GEPnYxzQ",
+      "value": "Assistant Manager CGSS"
+    },
+    {
+      "key": "ZLVMDbPn",
+      "value": "Assistant Manager -Insurance"
+    },
+    {
+      "key": "W9V7WVJZ",
+      "value": "Assistant Professor"
+    },
+    {
+      "key": "6nz3pPGk",
+      "value": "Associate Professor"
+    },
+    {
+      "key": "4YgbYNVE",
+      "value": "Attender"
+    },
+    {
+      "key": "qwzvw0PZ",
+      "value": "Audiometry Technician"
+    },
+    {
+      "key": "2kPXb2gm",
+      "value": "Billing Assistant"
+    },
+    {
+      "key": "bAPj78V1",
+      "value": "Billing & Guest Relation Executive"
+    },
+    {
+      "key": "W9V7qWzJ",
+      "value": "Biomedical Engineer"
+    },
+    {
+      "key": "JlgeOaPY",
+      "value": "Cardiac Technologist"
+    },
+    {
+      "key": "qwzv0VZy",
+      "value": "Cardiologist"
+    },
+    {
+      "key": "pmzDKgkE",
+      "value": "Casualty Medical Officer"
+    },
+    {
+      "key": "6vPrQXzw",
+      "value": "Cathlab Technician"
+    },
+    {
+      "key": "6nz32mgG",
+      "value": "CCTV and PA System"
+    },
+    {
+      "key": "1GgYaLgN",
+      "value": "CHIEF"
+    },
+    {
+      "key": "BNzNQgG9",
+      "value": "Chief Cardiothoracic Surgeon"
+    },
+    {
+      "key": "5jgx7Vpw",
+      "value": "Chief Radiographer"
+    },
+    {
+      "key": "eazpvMV2",
+      "value": "Chief Supervisor"
+    },
+    {
+      "key": "pmzDm6Pk",
+      "value": "Clinical Pharmacist"
+    },
+    {
+      "key": "OaVmyV2K",
+      "value": "Consultant"
+    },
+    {
+      "key": "q9z604VA",
+      "value": "Counselling Psychologist"
+    },
+    {
+      "key": "pLzd9P84",
+      "value": "CT Technician"
+    },
+    {
+      "key": "6vPr16zw",
+      "value": "Data Entry Operator"
+    },
+    {
+      "key": "ZLVMbgnJ",
+      "value": "DBCS Camp Coordinator"
+    },
+    {
+      "key": "AGzERPL9",
+      "value": "Deputy Nursing Superintendent"
+    },
+    {
+      "key": "QDPwQlgO",
+      "value": "DGM - Billing & Insurance"
+    },
+    {
+      "key": "ajgJlYPm",
+      "value": "DGM - Finance & Accounts"
+    },
+    {
+      "key": "OaVmQ5V2",
+      "value": "DGM & IT Head"
+    },
+    {
+      "key": "jKPyOagW",
+      "value": "Dialysis Unit Manager"
+    },
+    {
+      "key": "GEPnmxzQ",
+      "value": "Dietitian"
+    },
+    {
+      "key": "Jlge3yPY",
+      "value": "Driver"
+    },
+    {
+      "key": "oNgG5Pde",
+      "value": "ECG Technician"
+    },
+    {
+      "key": "2kPXKmzm",
+      "value": "Echo Technician"
+    },
+    {
+      "key": "DZg0pngN",
+      "value": "Electrician"
+    },
+    {
+      "key": "Keglx8gn",
+      "value": "Emergency Care Technician"
+    },
+    {
+      "key": "GEPnEzQd",
+      "value": "Emergency Physician"
+    },
+    {
+      "key": "pLzdL9z8",
+      "value": "Executive"
+    },
+    {
+      "key": "W9V7bnPJ",
+      "value": "Executive Billing"
+    },
+    {
+      "key": "JmgL4gwd",
+      "value": "Female Nursing Assistant"
+    },
+    {
+      "key": "pLzdjpV8",
+      "value": "Fitter"
+    },
+    {
+      "key": "7mV5ZlgG",
+      "value": "Full Stack Developer"
+    },
+    {
+      "key": "4Ygb3vzE",
+      "value": "Furniture Incharge"
+    },
+    {
+      "key": "WdgBpvP9",
+      "value": "Gardener"
+    },
+    {
+      "key": "aZzKGQzp",
+      "value": "Gas Plant Technician"
+    },
+    {
+      "key": "bkzZ1wgm",
+      "value": "Guest Relations Executive"
+    },
+    {
+      "key": "q9z68VAn",
+      "value": "Head"
+    },
+    {
+      "key": "QDPwlVOv",
+      "value": "HOD & DMS"
+    },
+    {
+      "key": "avgovZVj",
+      "value": "House Keeping"
+    },
+    {
+      "key": "BjgRrMgZ",
+      "value": "Housemaid"
+    },
+    {
+      "key": "E7VA3vzD",
+      "value": "HR Executive"
+    },
+    {
+      "key": "Keglmlzn",
+      "value": "HVAC Incharge"
+    },
+    {
+      "key": "QDPwmlgO",
+      "value": "ICU Technician"
+    },
+    {
+      "key": "WdgBNyg9",
+      "value": "Incharge"
+    },
+    {
+      "key": "bkzZKQPm",
+      "value": "Incharge - CGSS"
+    },
+    {
+      "key": "kmz8a5Pj",
+      "value": "Incharge - Guest Relations"
+    },
+    {
+      "key": "aLga9gND",
+      "value": "Incharge - ICU"
+    },
+    {
+      "key": "jKPyaPW2",
+      "value": "Incharge- ICU & Critical Care"
+    },
+    {
+      "key": "QDPwl0VO",
+      "value": "Incharge - Maintenance"
+    },
+    {
+      "key": "JlgeagYj",
+      "value": "Incharge - OPD"
+    },
+    {
+      "key": "y8g91gN7",
+      "value": "Incharge - OT"
+    },
+    {
+      "key": "eazp8vz2",
+      "value": "Incharge - Plumbing"
+    },
+    {
+      "key": "aZzKMVpn",
+      "value": "Incharge - Special Ward"
+    },
+    {
+      "key": "WdgByV9O",
+      "value": "Infection Control Nurse"
+    },
+    {
+      "key": "rmgQQ9g7",
+      "value": "Intern"
+    },
+    {
+      "key": "Bqz4K0gd",
+      "value": "Junior Assistant"
+    },
+    {
+      "key": "6nz3GpzG",
+      "value": "Junior Biomedical Engineer"
+    },
+    {
+      "key": "BNzNrQzG",
+      "value": "Junior Executive"
+    },
+    {
+      "key": "q9z624zA",
+      "value": "Junior Officer"
+    },
+    {
+      "key": "eZgOePnl",
+      "value": "Junior Resident"
+    },
+    {
+      "key": "W9V78WgJ",
+      "value": "L1 Support Engineer"
+    },
+    {
+      "key": "BjgRZvgZ",
+      "value": "Lab Technician"
+    },
+    {
+      "key": "E7VAxvPD",
+      "value": "Laundry Assistant"
+    },
+    {
+      "key": "Y3z1bePW",
+      "value": "Lift Operator"
+    },
+    {
+      "key": "BNzNr0zG",
+      "value": "Male Nursing Assistant"
+    },
+    {
+      "key": "bAPjm3z1",
+      "value": "Manager"
+    },
+    {
+      "key": "2kPXbmgm",
+      "value": "Marketing Assistant"
+    },
+    {
+      "key": "pmzDR6Vk",
+      "value": "Medical Director"
+    },
+    {
+      "key": "QDPwQ0gO",
+      "value": "Medical Record Officer"
+    },
+    {
+      "key": "6nz3KpzG",
+      "value": "MS Secretary"
+    },
+    {
+      "key": "6vPrXgwW",
+      "value": "Nephrologist"
+    },
+    {
+      "key": "bkzZwPmG",
+      "value": "Nursing Supervisor"
+    },
+    {
+      "key": "q9z608VA",
+      "value": "Operation Assistant"
+    },
+    {
+      "key": "KeglKlVn",
+      "value": "Operation Executive"
+    },
+    {
+      "key": "W9V78ngJ",
+      "value": "Operation Manager"
+    },
+    {
+      "key": "eazpMP2b",
+      "value": "Operations Assistant"
+    },
+    {
+      "key": "E7VAQ3VD",
+      "value": "Operations Manager"
+    },
+    {
+      "key": "avgoQ8Pj",
+      "value": "OP Secretary"
+    },
+    {
+      "key": "eZgO4ezn",
+      "value": "Opticals Incharge"
+    },
+    {
+      "key": "avgo88zj",
+      "value": "Optometrist"
+    },
+    {
+      "key": "bAPjp8g1",
+      "value": "OT Assistant"
+    },
+    {
+      "key": "aLgay9gN",
+      "value": "OT Technician"
+    },
+    {
+      "key": "AGzEkoVL",
+      "value": "Paramedical Assistant"
+    },
+    {
+      "key": "AGzEQRzL",
+      "value": "Pharmacist"
+    },
+    {
+      "key": "oNgGD5zd",
+      "value": "Phlebotomist"
+    },
+    {
+      "key": "Bqz4pRzd",
+      "value": "Physician Assistant"
+    },
+    {
+      "key": "jXgWZRVM",
+      "value": "Plumber"
+    },
+    {
+      "key": "avgo8zj0",
+      "value": "Professor"
+    },
+    {
+      "key": "Kegl8gnd",
+      "value": "Professor & HOD"
+    },
+    {
+      "key": "avgoQZPj",
+      "value": "Quality Assistant"
+    },
+    {
+      "key": "6nz3KmzG",
+      "value": "Quality Manager"
+    },
+    {
+      "key": "jXgWQDPM",
+      "value": "Quality Manager Cum Biochemistry Incharge"
+    },
+    {
+      "key": "kagq6z4m",
+      "value": "Radiographer"
+    },
+    {
+      "key": "bAPj73V1",
+      "value": "Record Clerk"
+    },
+    {
+      "key": "ZLVMNwgn",
+      "value": "Safety Assistant"
+    },
+    {
+      "key": "eZgO6XVn",
+      "value": "Security"
+    },
+    {
+      "key": "5jgxlagp",
+      "value": "Senior AC Technician"
+    },
+    {
+      "key": "q9z6l8VA",
+      "value": "Senior Biomedical Engineer"
+    },
+    {
+      "key": "2kPXmVma",
+      "value": "Senior Casualty Medical Officer"
+    },
+    {
+      "key": "GEPnvEPQ",
+      "value": "Senior Cathlab Technician"
+    },
+    {
+      "key": "eZgOpXzn",
+      "value": "Senior Dietitian"
+    },
+    {
+      "key": "kagqv6z4",
+      "value": "Senior Executive"
+    },
+    {
+      "key": "KeglK8Vn",
+      "value": "Senior Executive & PRO"
+    },
+    {
+      "key": "JmgL74Vw",
+      "value": "Senior Lab Technician"
+    },
+    {
+      "key": "BNzN7QPG",
+      "value": "Senior Manager"
+    },
+    {
+      "key": "BjgRvgZG",
+      "value": "Senior Nursing Supervisor"
+    },
+    {
+      "key": "pmzDjKVk",
+      "value": "Senior Pharmacist"
+    },
+    {
+      "key": "E7VA3zDK",
+      "value": "Senior Resident"
+    },
+    {
+      "key": "24VklgeK",
+      "value": "Senior Staff Nurse"
+    },
+    {
+      "key": "ajgJYVmB",
+      "value": "Senior Technician"
+    },
+    {
+      "key": "BNzNK0PG",
+      "value": "Software Engineer"
+    },
+    {
+      "key": "jXgWDzM8",
+      "value": "Staff Nurse"
+    },
+    {
+      "key": "Y3z1L4gW",
+      "value": "Steno Typist"
+    },
+    {
+      "key": "7mV5rgGw",
+      "value": "Store Keeper"
+    },
+    {
+      "key": "4YgbNgEJ",
+      "value": "Supervisor"
+    },
+    {
+      "key": "7mV5KrzG",
+      "value": "Supervisor - Blood Bank"
+    },
+    {
+      "key": "kmz82ZVj",
+      "value": "Supervisor - Garden"
+    },
+    {
+      "key": "rmgQbLz7",
+      "value": "Supervisor Phlebotomy"
+    },
+    {
+      "key": "kagq8jV4",
+      "value": "Supervisor / Quarters"
+    },
+    {
+      "key": "RDV29PpJ",
+      "value": "Tailor"
+    },
+    {
+      "key": "RDV2y9Pp",
+      "value": "Technical Supervisor"
+    },
+    {
+      "key": "pmzDmKPk",
+      "value": "Technican"
+    },
+    {
+      "key": "1GgYOPN5",
+      "value": "Technician"
+    },
+    {
+      "key": "qwzvaJgZ",
+      "value": "Technology Architect"
+    },
+    {
+      "key": "E7VA33zD",
+      "value": "Telephone Operator"
+    },
+    {
+      "key": "2kPX12Vm",
+      "value": "Trainee AC Technician"
+    },
+    {
+      "key": "OaVmmyV2",
+      "value": "Trainee Cathlab Technician"
+    },
+    {
+      "key": "aZzKrMgp",
+      "value": "Trainee Pharmacist"
+    },
+    {
+      "key": "Y3z14gWO",
+      "value": "Trainee Staff Nurse"
+    },
+    {
+      "key": "y8g9K1PN",
+      "value": "Trainee Technician"
+    },
+    {
+      "key": "DZg0xmgN",
+      "value": "Transplant Co-ordinator"
+    },
+    {
+      "key": "Bqz4RVdx",
+      "value": "Urologist"
+    },
+    {
+      "key": "rmgQLV73",
+      "value": "Ward Boy"
+    },
+    {
+      "key": "DZg0mzNp",
+      "value": "Ward Incharge"
+    },
+    {
+      "key": "oNgGepPd",
+      "value": "Ward Supervisor"
+    },
+    {
+      "key": "ajgJbpgm",
+      "value": "Welder"
+    }
+  ]
+}
